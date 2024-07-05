@@ -10,8 +10,8 @@ Vue.js를 사용하여 만든 간단한 팝업 컴포넌트 예제
 - 팝업 창 닫기 기능
 
 ## 스크린샷
-
-![스샷](./screenshot.jpg)
+![스샷1](./screenshot1.jpg)
+![스샷2](./screenshot2.jpg)
 
 ## 사용 방법
 
